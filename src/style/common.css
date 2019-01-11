@@ -1,0 +1,7 @@
+html,body{
+    background: #f2f2f2;
+    
+}
+.flex-box {
+    display: flex;
+}
